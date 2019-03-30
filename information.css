@@ -12,17 +12,39 @@
   text-decoration: none;
   font-size: 17px;
 }
-
-body {
-  background-color:  #D2B48C;
-
+body{
+ background-color: grey;
 }
 
-h3{
+.container{
 
-  color: #2f5687;
+}
+/*bg {
+   The image used
+  background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(11).jpg");
+
+  /* Full height
+  height: 50%;
+
+  /* Center and scale the image nicely
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}*/
+
+h3{
+  font-weight: 900;
+  color: white;
 }
 
 h1{
    color: #9A4747;
 }
+
+/*#education  {
+  background-color: grey;
+  width: 300px;
+
+  padding: 25px;
+  margin: 25px;
+}*/
